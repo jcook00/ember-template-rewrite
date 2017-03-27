@@ -1,0 +1,8 @@
+npm-debug.log
+coverage
+tmp
+*.swp
+node_modules
+.DS_Store
+.nyc_output
+yarn.lock
